@@ -12,3 +12,16 @@ ion-thumbnail {
    font-size: 1.5vh;
  }
 }
+
+.flex {
+ display: flex;
+}
+
+.padding {
+ padding-left: 15px;
+}
+
+.padding2 {
+ padding-left: 15px;
+ padding-top: 10px;
+}
