@@ -2,3 +2,13 @@ ion-thumbnail {
  --size: 100px;
  --border-radius: 55px;
 }
+
+.color {
+  background-color: rgb(222, 222, 226);
+}
+
+@media only screen and (max-width: 410px) {
+ .size {
+   font-size: 1.5vh;
+ }
+}
